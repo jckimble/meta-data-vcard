@@ -1,6 +1,8 @@
 meta-data-vcard
 =====
 
+[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release) ![build status](https://github.com/jckimble/meta-data-vcard/actions/workflows/release.yml/badge.svg?branch=master) ![license](https://img.shields.io/npm/l/meta-data-vcard) [![npm version](https://img.shields.io/npm/v/meta-data-vcard)](https://www.npmjs.com/package/meta-data-vcard)
+
 Create vCards to import contacts into Outlook, iOS, Mac OS, and Android devices from your website using data properties.
 
 ## Install
